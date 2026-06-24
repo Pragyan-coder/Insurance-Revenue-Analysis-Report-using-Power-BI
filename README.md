@@ -7,7 +7,10 @@ Our client **‘Shield Insurance Ltd.’** provides affordable & customizable in
 ### ✅Project Details:
 
 - Domain: Finance/Banking (Insurance Data)
-- Tools used: Excel, Power BI 
+- Tools used: Excel, Power BI
+
+#### Interactive Dashboard Link: [Click here to View](https://app.fabric.microsoft.com/view?r=eyJrIjoiODA0OTZmMWQtZDM3ZS00NDNkLWE5YjktMDk3NjFmZTUyZDc4IiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
+
 
 <img width="1307" height="737" alt="2  Exe pg" src="https://github.com/user-attachments/assets/3e3192ac-d03a-4d3f-b6c9-87e6a47901f9" />
 
@@ -52,8 +55,6 @@ As an Analyst, I am responsible for developing and implementing a Power BI Model
 -	**Advanced Data Modeling:** Implemented a Star Schema by establishing relationships between central transaction tables (fact_premiums, fact_settlements) and master dimension tables (dim_customer, dim_date, dim_policy). Successfully identified and resolved complex model issues, including data blockages from one-way cross-filtering directions and circular dependencies.
 -	**Advanced DAX Engineering:** Developed robust, custom DAX metrics for time-intelligence analysis. Designed string-concatenation formulas for dynamic card visual subtitles and established conditional color flags for automated positive/negative trend markers.
 -	**UI/UX Dashboard Styling:** Designed left-side navigation matrix mimicking modern software applications. Integrated functional dashboard layout enhancements including conditional formatting data bars, custom line/column combinations for concurrent trend tracking, and user-driven metric trend switches.
-
-#### Interactive Dashboard Link: [Click here to View](https://app.fabric.microsoft.com/view?r=eyJrIjoiODA0OTZmMWQtZDM3ZS00NDNkLWE5YjktMDk3NjFmZTUyZDc4IiwidCI6IjFlM2U2YmJlLTVkNzMtNGVhMS1iNDVlLTc0YzgzOThhNTM5OSJ9)
 
 ### ✅ Key Insights:
 
