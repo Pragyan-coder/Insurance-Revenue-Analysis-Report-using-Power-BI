@@ -58,6 +58,10 @@ As an Analyst, I am responsible for developing and implementing a Power BI Model
 
 ### ✅ Key Insights:
 
+
+<img width="2752" height="1536" alt="Report Snapshot" src="https://github.com/user-attachments/assets/4d55cf89-9d79-4325-8bd8-190935d608f9" />
+
+
 1. **Global Revenue Operations**: Shield Insurance successfully generated a total revenue of 989.25M across 26,841 active customers, producing an average premium value of 36,856 per policyholder.
    
 2. **Top Regional Market**: Delhi NCR stands as the ultimate revenue engine for the organization, generating 401.6M (more than 40% of total company revenue) from 11,007 customers.
