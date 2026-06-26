@@ -58,8 +58,7 @@ As an Analyst, I am responsible for developing and implementing a Power BI Model
 
 ### ✅ Key Insights:
 
-
-<img width="2752" height="1536" alt="Report Snapshot" src="https://github.com/user-attachments/assets/4d55cf89-9d79-4325-8bd8-190935d608f9" />
+<img width="2752" height="1536" alt="Report Snapshot" src="https://github.com/user-attachments/assets/890f1f8c-e4b4-477a-98f1-4c5ca22446a4" />
 
 
 1. **Global Revenue Operations**: Shield Insurance successfully generated a total revenue of 989.25M across 26,841 active customers, producing an average premium value of 36,856 per policyholder.
